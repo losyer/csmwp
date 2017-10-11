@@ -1,0 +1,1000 @@
+My body cast a shadow over the grass	The sun was rising	The grass was cut	cause	1
+The woman tolerated her friend's difficult behavior	The woman knew her friend was going through a hard time	The woman felt that her friend took advantage of her kindness	cause	1
+The women met for coffee	The cafe reopened in a new location	They wanted to catch up with each other	cause	2
+The runner wore shorts	The forecast predicted high temperatures	She planned to run along the beach	cause	1
+The guests of the party hid behind the couch	It was a surprise party	It was a birthday party	cause	1
+The politician lost the election	He ran negative campaign ads	No one voted for him	cause	2
+The stain came out of the shirt	I patched the shirt	I bleached the shirt	cause	2
+The man got a discount on his groceries	He greeted the cashier	He used a coupon	cause	2
+The physician misdiagnosed the patient	The patient filed a malpractice lawsuit against the physician	The patient disclosed confidential information to the physician	effect	1
+The customer filed a complaint with the store manager	The sales associate undercharged the customer	The sales associate acted rude to the customer	cause	2
+The woman repaired her faucet	The faucet was leaky	The faucet was turned off	cause	1
+The elderly woman suffered a stroke	The woman's daughter came over to clean her house	The woman's daughter moved in to take care of her	effect	2
+The pond froze over for the winter	People skated on the pond	People brought boats to the pond	effect	1
+The offender violated parole	She was sent back to jail	She stole money from a church	effect	1
+I poured water on my sleeping friend	My friend awoke	My friend snored	effect	1
+The girl gasped	Her friend stuck an ice cube down her back	Her friend gave her a pat on the back	cause	1
+The shirt shrunk	I poured bleach on it	I put it in the dryer	cause	2
+It got dark outside	Snowflakes began to fall from the sky	The moon became visible in the sky	effect	2
+I hung up the phone	The caller said goodbye to me	The caller identified himself to me	cause	1
+The woman's ring slipped off in the shower	The woman polished the ring	The ring went down the drain	effect	2
+The girl received a trophy	She won a spelling bee	She made a new friend	cause	1
+The woman's date wanted to look like a gentleman	He opened the door for her	He asked her if she liked sushi	effect	1
+The farmland needed irrigation	A canal was constructed	A flood occurred	effect	1
+The host cancelled the party	She was certain she had the flu	She worried she would catch the flu	cause	1
+The woman gave the man her phone number	She was attracted to him	She was repulsed by him	cause	1
+The skydiver glided safely to the ground	She opened her parachute	She jumped out of the plane	cause	1
+The toddler became cranky	Her mother put her down for a nap	Her mother fixed her hair into pigtails	effect	1
+The child became immune to the disease	He avoided exposure to the disease	He received the vaccine for the disease	cause	2
+The grape juice fermented	The juice turned to wine	The juice evaporated	effect	1
+The friends' debate dragged on interminably	The friends saw eye to eye	The friends were splitting hairs	cause	2
+The woman hummed to herself	She was nervous	She was in a good mood	cause	2
+The man hated his new haircut	He wore a hat	He grew a beard	effect	1
+The police aimed their weapons at the fugitive	The fugitive fell to the ground	The fugitive dropped his gun	effect	2
+The patient was dehydrated	The nurse tested his reflexes	The nurse gave him an IV	effect	2
+The girl found the missing puzzle piece	She completed the puzzle	She took apart the puzzle	effect	1
+The man urgently leaped out of bed	He wanted to shut off the alarm clock	He wanted to iron his pants before work	cause	1
+The papers were disorganized	I made photocopies of them	I put them into alphabetical order	effect	2
+The woman won the lottery	She bought a yacht	She joined a church	effect	1
+The seamstress pushed the threaded needle into the fabric	The thread wrapped around the needle	The thread went through the fabric	effect	2
+The woman hired a lawyer	She decided to sue her employer	She decided to run for office	cause	1
+The tenant misplaced his keys to his apartment	His landlord unlocked the door	His landlord repaired the door	effect	1
+My favorite song came on the radio	I covered my ears	I sang along to it	effect	2
+The executive decided not to hire the applicant	The applicant failed a background check	The applicant had experience for the job	cause	1
+The man's eye became infected	He went blind	He put on glasses	effect	1
+The bird couldn't fly	It migrated for the winter	It injured its wing	cause	2
+The girl made a wish	She saw a black cat	She saw a shooting star	cause	2
+The woman shivered as she got out the pool	She wrapped herself in a towel	She poured herself some lemonade	effect	1
+The nurse prepared the needle for the patient's injection	The patient bled	The patient tensed up	effect	2
+The man threw out the bread	It was fresh	It was stale	cause	2
+The children knocked over a lamp	They had a pillow fight	They jumped on the bed	cause	1
+I drank from the water fountain	I was thirsty	I felt nauseous	cause	1
+The homeowners disliked their nosy neighbors	They built a fence around their property	They hosted a barbeque in their backyard	effect	1
+The bodybuilder lifted weights	The gym closed	Her muscles became fatigued	effect	2
+The cook stirred the ingredients in the bowl	The ingredients melted	The ingredients blended together	effect	2
+The man signed the document	The transaction was voided	The transaction became official	effect	2
+The police officer dropped the gun	The gun recoiled	The gun went off	effect	2
+The woman felt compelled to help someone in need	She donated blood	She wrote a poem	effect	1
+The woman felt lonely	She renovated her kitchen	She adopted a cat	effect	2
+I rubbed sandpaper on the wood	The wood became smooth	The wood became sticky	effect	1
+The crowd gave the band a standing ovation	The band signed autographs	The band reappeared on the stage	effect	2
+The man threw his empty can onto the street	He was jumped from behind	He was fined for littering	effect	2
+My stomach growled	I forgot to eat breakfast	I was full from breakfast	cause	1
+The boaters set off a flare	Their boat drifted to shore	Their boat was rescued	effect	2
+The man removed his coat	He entered the house	He loosened his tie	cause	1
+The family took their dog to the veterinarian	The dog chewed on a bone	The dog injured his paw	cause	2
+The woman dangled the biscuit above the dog	The dog jumped up	The dog scratched its fur	effect	1
+I learned how to play the board game	My friend explained the rules to me	My friend got the rules wrong	cause	1
+The man went away for the weekend	He wanted to relax	He felt content	cause	1
+The shop was closed	The owner was helping customers	The shop was undergoing renovation	cause	2
+The boy tuned the radio	The station was playing rock music	The station was coming in with static	cause	2
+The terrorist set off the bomb	The bomb exploded	The bomb was deactivated	effect	1
+The police handcuffed the suspect	The police called for backup	The suspect resisted arrest	cause	2
+The authorities vowed to protect the identity of the crime victim	The victim struggled to recall details about the crime	They withheld the victim's name from the public	effect	2
+The man's clothes fit loosely	He bought them on sale	He lost weight	cause	2
+The clock stopped ticking	I took extra time to get ready	The clock showed the wrong time	effect	2
+The man closed the umbrella	He got out of the car	He approached the building	cause	2
+The man craved a cigarette	His family urged him to quit smoking	He was addicted to nicotine	cause	2
+The man dropped food on the floor	His dog jumped up on him	His dog ran over to eat the food	effect	2
+The girl was angry with her friend	The girl spread a rumor about her friend	The girl told a secret to her friend	effect	1
+The fugitive hid from the police	The police dropped the case	The fugitive remained at large	effect	2
+I tipped the bottle	The liquid in the bottle froze	The liquid in the bottle poured out	effect	2
+The woman spoke with a foreign accent	She came from a wealthy family	She migrated from another country	cause	2
+The boy's mouth stung	He ate a pepper	He blew out the candle	cause	1
+I finished a page of the book	I ripped out the next page	I turned to the next page	effect	2
+The service at the restaurant was slow	There were many empty tables	The restaurant was crowded	cause	2
+I saw a woman getting robbed on the street	I called 911	I hailed a cab	effect	1
+My stomach hurt	I jogged on the treadmill	I ate birthday cake	cause	2
+I put my plate in the sink	I finished eating	I skipped dinner	cause	1
+The man closed the book	He finished reading it	It provoked him to think	cause	1
+The boy read the novel aloud to his grandfather	His grandfather was deaf	His grandfather was blind	cause	2
+My foot went numb	I put my shoes on	I shook my foot	effect	2
+The photographer got the child to smile	The photographer quickly snapped the child's photo	The photographer quickly changed the child's pose	effect	1
+The window was opaque	The glass was stained	The blinds were open	cause	1
+I slipped on the floor	The tile was wet	The tile was cracked	cause	1
+The man slid the razor across his chin	His stubble grew	His stubble disappeared	effect	2
+The woman took her family on vacation	Her husband got laid off	She received a salary bonus	cause	2
+The woman awakened	She took sleeping pills	Her husband was snoring	cause	2
+The woman sensed a pleasant smell	She remembered to take her medication	She was reminded of her childhood	effect	2
+The bar closed	It was crowded	It was 3 AM	cause	2
+The driver got pulled over by the police	He was parking	He was speeding	cause	2
+The teacher took roll	She identified the students that were absent	She gave her students a pop quiz	effect	1
+I pushed the pendulum	It slowed to a stop	It swung back and forth	effect	2
+The child kicked the stack of blocks	The stack towered over the boy's head	The blocks scattered all over the rug	effect	2
+The teenager ran away from home	He relied on his parents	His parents abused him	cause	2
+I botched the job interview	The interviewer asked difficult questions	I anticipated the interviewer's questions	cause	1
+The pharmaceutical company recalled the drug	Users reported dangerous side effects	Users got refills on their prescriptions	cause	1
+The man looked at his watch	He realized he forgot something	He realized he was early	effect	2
+I dabbed the floor with a paper towel	I spilled juice on the floor	The floor was permanently stained	cause	1
+The bartender refused to serve the patron	The patron was alone	The patron was drunk	cause	2
+I was confused by the professor's lecture	I paid attention to the professor	I asked the professor questions	effect	2
+The book was deemed inappropriate for children	Schools banned it from its libraries	Teachers required students to read it	effect	1
+The man begged for forgiveness	The woman took pity on him	The woman joked around with him	effect	1
+I received a package in the mail	The package triggered my curiosity	I took the package to the post office	effect	1
+The surfer caught the wave	The wave carried her to the shore	She paddled her board into the ocean	effect	1
+The speaker disarmed her debate opponent	The speaker congratulated her opponent	The speaker won the debate	effect	2
+I moved to a new city	I found a better-paying job	My son was born	cause	1
+I avoided giving a straight answer to the question	The question made me uncomfortable	I wanted to be honest	cause	1
+The student received detention	He talked back to the teacher	The teacher graded his homework	cause	1
+The boy's hands were shaking	He planned to ask the girl out	His palms were cold and sweaty	cause	1
+The fans in the stadium cheered	The game ended in a tie	The player scored	cause	2
+The girl went down the hill on her bike	Her bike swerved	Her bike sped up	effect	2
+A man cut in front of me in the long line	I confronted him	I smiled at him	effect	1
+The inside of the train went dark	The train travelled through a tunnel	The train ran off the tracks	cause	1
+The man contemplated the painting	He felt in awe	He collapsed	effect	1
+The turtle hid in its shell	It ate a fish	It detected a predator	cause	2
+The girl handed down her clothes to her younger sister	The clothes were tattered	She outgrew the clothes	cause	2
+Several witnesses of the crime testified against the suspect	The suspect was acquitted	The suspect was convicted	effect	2
+The parents left their children with a babysitter	Their youngest child started attending preschool	They made plans to celebrate their anniversary	cause	2
+The trip took a long time	 The driver talked the whole way	The driver made a wrong turn	cause	2
+The product was heavily advertised	Consumers recognized the product	The product became outdated	effect	1
+I rubbed the soap between my hands	The soap foamed	My hands went numb	effect	1
+The cowgirl threw her lasso towards the horse	The lasso grabbed onto the horse	The horse trotted into the barn	effect	1
+The group overlooked the woman's faux pas	The woman was relieved	The woman apologized	effect	1
+The girl came across an unfamiliar word in her textbook	She looked the term up in the dictionary	She chucked the textbook across the room	effect	1
+The man became disabled	His family offered him financial support	His family cut off contact with him	effect	1
+The flashlight was dead	I took it apart	I replaced the batteries	effect	2
+The skunk sprayed the dog	The dog emitted a foul smell	The skunk roamed the woods	effect	1
+I scratched my skin	My itch went away	My scar faded	effect	1
+I wrote a thank-you note to my grandmother	She became forgetful	She sent me a gift	cause	2
+A burglar broke into the house	The homeowners were asleep	The security alarm went off	effect	2
+I held the door for the woman entering behind me	The door slammed shut	The woman thanked me	effect	2
+The mirror in the bathroom fogged up	The girl turned on the fan	The girl applied her makeup	effect	1
+The security guard tackled the man	The man reached into his pocket	The man displayed a weapon	cause	2
+The driver rotated the steering wheel	The car halted	The car turned	effect	2
+The army surrendered the battle	They were outnumbered	They stormed the city	cause	1
+The navy bombed the ship	The ship crashed into the pier	The ship's debris sunk in the sea	effect	2
+I ironed my shirt	It was clean	It was wrinkled	cause	2
+The girl felt dizzy	She lost her balance	She did stretches	effect	1
+The driver pulled over to the side of the road	He went through an intersection	He noticed a stranded vehicle	cause	2
+The hospital sent the patient home	The patient's symptoms cleared up	The patient's family visited him	cause	1
+The child caught a life-threatening illness	She didn't get vaccinated	She was adopted	cause	1
+We found empty seats in the theatre	The film began	We sat down	effect	2
+The parents recognized their daughter's creativity	They taught her how to ride a bike	They encouraged her to become an artist	effect	2
+The boy turned the lid on the jar	The jar became warm	The lid came off	effect	2
+The woman received a diploma	She enrolled in college	She graduated from college	cause	2
+I chugged the pitcher of water	I walked upstairs	I ran five miles	cause	2
+I came upon a puddle on the sidewalk	I leapt over the puddle	I played in the puddle	effect	1
+The woman covered her ears	The fire alarm blared	The woman smelled smoke	cause	1
+The archeologist dug up the site	She excavated ancient artifacts	She read about the site's history	effect	1
+The audience booed the comedian off the stage	He told a racist joke	He entertained the audience	cause	1
+The coach gave his player a high five	The player got a penalty	The player scored a point	cause	2
+I tossed the ball upwards	The ball rolled across the ground	The ball hit the ceiling	effect	2
+My breath smelled of garlic	I wiped my mouth	I brushed my teeth	effect	2
+The man was lost	He asked for directions	He drew a map	effect	1
+The baby pulled the mother's hair	The baby burped	The mother grimaced	effect	2
+I stood on one foot	My balance wavered	I kneeled down	effect	1
+I pushed the gas pedal	The car accelerated	The car door opened	effect	1
+My car was towed	I parked illegally	I jumped the battery	cause	1
+The woman got away with the crime	Her accomplice was apprehended	She destroyed the evidence	cause	2
+The dust came off the desk	I wiped the desk with a cloth	I removed the books from the desk	cause	1
+The motorcyclist twisted the throttle	The motorcycle coasted to a halt	The motorcycle shot forward	effect	2
+The teacher caught the student chewing gum	The gum stuck to the student's shoe	The student spit out the gum	effect	2
+The host served dinner to his guests	His guests were gracious	His guests went hungry	effect	1
+The boy climbed the tree	A cat got stuck in the tree	A bird built a nest in the tree	cause	1
+The chair squeaked	The man carried the chair to his office	The man scooted the chair closer to his desk	cause	2
+The father shut off the children's television	It was bedtime for the children	The children were watching cartoons	cause	1
+The man held his breath	He went underwater	He treaded water	cause	1
+I clumsily bumped into the stranger	I ran away	I apologized to him	effect	2
+The boat capsized	The captain raised the sail	It was caught in a hurricane	cause	2
+The mother suspected that her son was lying	He refused to talk to her	He avoided making eye contact with her	cause	2
+The young woman was denied entrance into the bar	Her friends stood her up	She forgot her ID	cause	2
+A crater formed on the moon	A comet passed by the moon	A comet collided with the moon	cause	2
+I planted the seeds in the soil	I watered the soil	The seeds sprouted	effect	2
+The benefactor requested to stay anonymous	He wanted to maintain his privacy	He supported the cause behind his donation	cause	1
+The woman felt ashamed of scar on her face	She explained the scar to strangers	She hid the scar with makeup	effect	2
+The doctor x-rayed the patient's arm	He discovered that the patient's arm was broken	He put the patient's arm in a cast	effect	1
+The boy filled the bucket with sand	He was collecting seashells in the sand	He was building a sand castle	cause	2
+The woman upgraded her computer hardware	She deleted old files on the computer	She installed new software on the computer	effect	2
+The girl performed in a dance recital	Her parents showed her how to dance	Her parents came to watch the recital	effect	2
+The baby was wailing in his crib	The mother picked up the baby	The baby crawled to the mother	effect	1
+The woman had a religious awakening	She began going to church	She began travelling abroad	effect	1
+The bureau drawers were cluttered	I threw away unnecessary contents	I locked the drawers shut	effect	1
+The student flaunted his test grade to his classmates	He received a perfect score	He feigned interest in the class	cause	1
+The boy felt homesick	He went away to camp	He bickered with his sister	cause	1
+The rocket flew up into the sky	The girl launched it	The girl designed it	cause	1
+The boy murmured his reply to his mother	His mother told him to whisper	His mother told him to speak up	effect	2
+My flight got delayed	Tornadoes were sighted in the area	I was held up at airport security	cause	1
+The smoke alarm went off	I lit a candle	I burnt my dinner	cause	2
+The vase broke	I stenciled it	I glued it back together	effect	2
+The woman felt an electric shock	She grabbed the doorknob	She pounded on the door	cause	1
+The man had lipstick on his cheek	The woman kissed him	The woman made him blush	cause	1
+I jumped instinctively in fright	I sensed someone approaching me from behind	I heard people chuckling in the adjacent room	cause	1
+The gardener wanted his plants to flourish	He planted a variety of seeds	He put fertilizer in the soil	effect	2
+A water pipe in the house burst	The water was unsanitary	The pipe froze	cause	2
+The waistband on my pants was loose	I put on a belt	I put on a hat	effect	1
+The company lost money	Its products received positive consumer reviews	Some of its products were manufactured defectively	cause	2
+The tenants were evicted from the apartment	They neglected to pay their rent	They got along with their landlord	cause	1
+The man woke up with a toothache	He missed an appointment with the dentist	He made an appointment with the dentist	effect	2
+The team lost the game	Their best player was injured	Their coach pumped them up	cause	1
+The parents forbade their children from watching the movie. 	The movie was rated R	The movie was animated	cause	1
+The woman deleted the email	The sender tried to solicit money from her	The sender requested a response from her	cause	1
+The police eliminated the woman from the list of suspects	The police interrogated her	Her alibi checked out	cause	2
+The climbers reached the peak of the mountain	They encountered an avalanche	They congratulated each other	effect	2
+The vandals threw a rock at the window	The window cracked	The window fogged up	effect	1
+The fortune teller's revelations were convincing	She received many returning customers	Many customers asked for refunds	effect	1
+The woman's makeup smeared	She brushed her hair	She wiped her eyes	cause	2
+The company's profits started to level off	It increased its marketing efforts for new products	It moved its headquarters to a suburban location	effect	1
+The student's answer on the exam was incorrect	The teacher added bonus points to the student's grade	The teacher subtracted points off the student's grade	effect	2
+The girl wanted to demonstrate proper etiquette	She threw away her napkin after eating	She put her napkin on her lap before eating	effect	2
+The detective flashed his badge to the police officer	The police officer confiscated the detective's badge	The police officer let the detective enter the crime scene	effect	2
+The girl wanted to make her mother happy	The girl ate the cookies her mother baked	The girl picked a flower for her mother	effect	2
+The toddler started crying	Her parents took away her toy	Her parents gave her a toy	effect	2
+The stranger cried out to me in a foreign language	I stared blankly at him	I stopped to chat with him	effect	1
+The man uncovered incriminating evidence against his enemy	The man avoided his enemy	The man blackmailed his enemy	effect	2
+The girl pushed herself off the top of the slide	She glided down the slide	She crawled up the slide	effect	1
+My jaw dropped open	I was unhappy	I was shocked	cause	2
+The child disobeyed her parents	Her parents hugged her	Her parents punished her	effect	2
+The car looked filthy	The owner took it to the car wash	He owner took it in for a paint job	effect	1
+My friend paid for my ticket	I sought a refund	I paid her back	effect	2
+The woman was wrongly convicted for the crime	The jury was fair	She was framed	cause	2
+The girl applied the scissors to the paper	The paper sliced apart	The paper crinkled	effect	1
+The woman visited her family	She distrusted them	She missed them	cause	2
+I burst into a fit of laughter	My teeth began to chatter	My eyes welled up with tears	effect	2
+The school principal implemented a dress code	Students protested the decision	Students were expelled from school	effect	1
+The balloon expanded	I blew into it	I pricked it	cause	1
+I wanted to lighten the mood of the conversation	I remained quiet	I told a joke	effect	2
+The man broke his toe	He got a hole in his sock	He dropped a hammer on his foot	cause	2
+The man had an attack of conscience	He manipulated his friend	He admitted his indiscretion	effect	2
+A fistfight broke out in the hall of the school	The principal suspended the students involved	The principal called off classes for the day	effect	1
+The photo albums collected dust in the attic	They remained untouched for years	The family reminisced over the photos	cause	1
+I got distracted from my conversation with the woman	Everyone in the room was talking	The woman was telling a funny story	cause	1
+I put coins in the washing machine at the laundromat	The machine powered on	I ran out of laundry detergent	effect	1
+The family postponed the barbeque	The forecast called for storms	It was a holiday weekend	cause	1
+Air leaked out of the beach ball	It was inflated	There was a hole in it	cause	2
+Our group's conversation gradually lulled to silence	I felt awkward	I became enraged	effect	1
+I clenched the candy wrapper in my fist	The wrapper crinkled	The wrapper ripped	effect	1
+The woman pressed down on the piano key	A sound played	The key got stuck	effect	1
+The girl met her favorite actor	She went to see his new film	She asked him for his autograph	effect	2
+The vehicles travelled slowly	It was cloudy	It was foggy	cause	2
+The chandelier shattered on the floor	The chandelier dropped from the ceiling	The chandelier's lights flickered on and off	cause	1
+The cat purred	It scratched me	I petted it	cause	2
+The boy pushed his sister	His sister tattled on him	They played hide and seek	effect	1
+The man gained weight	He got his suit altered	He got his shoes shined	effect	1
+The clouds looked dark	I brought my laptop to work	I brought my umbrella to work	effect	2
+The engine of the airplane was faulty	The airplane crashed	The pilot made an error	effect	1
+Cars moved to the shoulder of the road	The traffic light turned green	A screaming ambulance approached	cause	2
+The boy lost hold of the bar of soap	The bar was slippery	The bar emitted a fragrance	cause	1
+The button on my shirt fell off	I sewed the button back on	I glued the button back on	effect	1
+The celebrity wore sunglasses	She wanted to thank her fans	She wanted to avoid recognition	cause	2
+My grandmother passed away	My family held a funeral	My family held a reunion	effect	1
+The police officer pulled over the celebrity	The celebrity offered the officer a bribe	The celebrity sued the police officer	effect	1
+The man revealed personal information to the therapist	He trusted the therapist	He disagreed with the therapist	cause	1
+The man fell unconscious	The assailant struck the man in the head	The assailant took the man's wallet	cause	1
+I approached the man	He looked busy	He looked familiar	cause	2
+The leader received praise	He fought poverty	He raised taxes	cause	1
+The man read the cartoon in the newspaper	He sipped coffee	He chuckled	effect	2
+My mailbox was overflowing with letters	The lid on the mailbox broke	I went on vacation for two weeks	cause	2
+The bananas ripened	We squeezed them	We ate them	effect	2
+The chef pressed down on the dough	The dough crumbled	The dough flattened	effect	2
+The clay hardened	The potter rolled the clay into a ball	The potter put the clay in the oven	cause	2
+My feet were blistered	I went hiking	I went swimming	cause	1
+The woman betrayed her friend	Her friend sent her a greeting card	Her friend cut off contact with her	effect	2
+The man took notice of the woman	He caught a whiff of her perfume	He had his back turned to her	cause	1
+The woman and her boyfriend got into a fight	They stopped seeing each other	They planned a vacation together	effect	1
+The bully stuck his foot out in front of his classmate	The bully picked up his classmate	The bully's classmate tripped	effect	2
+The man wanted to get revenge on his enemy	The man framed his enemy for a crime	The man declared a truce with his enemy	effect	1
+I drank a cup of coffee	My yawning ceased	I nodded off to sleep	effect	1
+The woman was mistaken for her sister	The woman was close with her sister	The woman looked like her sister	cause	2
+The man made an error in his calculations	He checked his work	His work was hasty	cause	2
+The woman's eyeglasses fogged up	She reclined by the pool	She entered the sauna	cause	2
+The shopper wondered about the cost of the item	He checked its price tag	He decided to buy it	effect	1
+The host of the trivia show called on the contestant for an answer	The contestant was in the lead	The contestant rang the buzzer	cause	2
+The boy was afraid to go to bed	He turned on his nightlight	He watched a horror movie	cause	2
+The woman wanted to be a doctor	She visited the hospital	She went to medical school	effect	2
+The boy found the television show boring	He recorded it	He shut it off	effect	2
+My daughter suffered an allergy attack	I encouraged her to take deep breaths	I took her to the emergency room	effect	2
+The boy had trouble buttoning his shirt	He refused to wear the shirt	He asked his mother for help	effect	2
+I spit out my chewing gum	I blew a bubble with the gum	The gum lost its flavor	cause	2
+The boy painted a picture for his mother	His mother hung the picture on the wall	His mother sold the picture to a gallery	effect	1
+The competition ended	The teams got pumped up	The teams shook hands	effect	2
+The girl politely declined the hamburger	She was a vegetarian	She liked fast food	cause	1
+I scrubbed the stain on the floor	I got rid of the stain	I got dirt on the floor	effect	1
+The documents contained important information	I paper clipped them together	I kept them in a secure place	effect	2
+The egg splattered	I dropped it	I boiled it	cause	1
+The girl pushed her friend	Her friend choked	Her friend fell over	effect	2
+A group of teenagers crashed the party	The host of the party kicked them out	The host of the party invited them in	effect	1
+The man took a shower	He was sweaty from working out	He opened a new bar of soap	cause	1
+The screen on the laptop went black	The laptop's warranty expired	The laptop's battery died	cause	2
+The book became a huge bestseller	It was adapted into a movie	The author faded into obscurity	effect	1
+The man felt thankful to be alive	He was cured of cancer	His wife was diagnosed with cancer	cause	1
+The woman wrote a check to the gas company	She preferred paying by cash	She received her monthly bill	cause	2
+The woman felt reluctant to switch careers	She made a lot of money in her current occupation	She endured a lot of stress in her current occupation	cause	1
+The woman filed a restraining order against the man	The man called her	The man stalked her	cause	2
+The ocean tide was dangerous	The swimmers put on more sunscreen	The swimmers returned towards the shore	effect	2
+The woman refused a second beer	She was the designated driver for the night	She was familiar with the bartender	cause	1
+I ran out of breath	I climbed several flights of stairs	I read several chapters of the book	cause	1
+The woman was deemed mentally ill	She was sent to a psychiatric institution	She sought a career as a psychiatrist	effect	1
+The sun emerged from the clouds	The woman glanced at her watch	The woman took her sweater off	effect	2
+The football coach lost his voice after the game	He yelled whenever a player fumbled the ball	He whistled whenever a player scored a touchdown	cause	1
+The woman complimented the man	He sneezed	He blushed	effect	2
+I applied pressure to the cut on my arm	It healed	It stopped bleeding	effect	2
+The woman had an infection	She took antibiotics	She washed her hands	effect	1
+The woman was summoned for jury duty	She contacted her lawyer	She cancelled her appointments	effect	2
+The woman fanned herself with her hand	She installed the air conditioner in the room	The air conditioner in the room broke	cause	2
+The doctors amputated the patient's leg	It was badly bruised	It was severely infected	cause	2
+The girl stared at herself in the mirror	She felt self-conscious	The mirror was smudged	cause	1
+The man was bitten by mosquitoes	He went camping in the woods	He fell asleep on his couch	cause	1
+The woman presented her brother with a gift	Her brother refused to accept the gift	Her brother unwrapped the gift	effect	2
+The administrator cleared her throat	The meeting was postponed	The meeting commenced	effect	2
+The children ran through the sprinkler	They ate popsicles	They were hot	cause	2
+The man needed coins to fill the parking meter	He searched under his car seats for loose change	He begged people on the street for loose change	effect	1
+The customer thought the souvenir was overpriced	The vender sold it to him	He bargained with the vendor	effect	2
+The scientist gained recognition	She discovered a new species	She received tenure at the university	cause	1
+The car stopped at the crosswalk	The pedestrian crossed the road	The pedestrian waited on the sidewalk	effect	1
+The boy giggled uncontrollably	His brother tickled him	His brother kicked him	cause	1
+My knees buckled on the stairs	I caught myself on the railing	The railing came loose from the wall	effect	1
+I went to bed	It was a clear night	It was late	cause	2
+My friend was recovering from surgery	I dropped her off at the hospital	I brought her a card and flowers	effect	2
+The DJ turned the music on	People left the party	People began to dance	effect	2
+The security guard replayed the surveillance footage	The surveillance camera was out of focus	He noticed some suspicious activity	cause	2
+I lingered in bed upon awakening	I was hungry	It was Saturday	cause	2
+The man lifted the heavy box	He put out his back	He scratched his back	effect	1
+The woman's purse was missing	It contained a lot of junk	She left it unsupervised	cause	2
+The woman suffered amnesia	She had an allergic reaction	She got into a car accident	cause	2
+I needed to get cash	I went to the bank	I bought a wallet	effect	1
+The rider fell to the ground	The bull bucked the rider	The bull chased the rider	cause	1
+The boy wanted to be muscular	He lifted weights	He played computer games	effect	1
+The scientist conducted an experiment	She validated her theory	She fabricated her data	effect	1
+The milk stayed cold	It was pasteurized	I stored it in the refrigerator	cause	2
+The fussy baby calmed down	The parents shook a rattle in front of the baby	The parents picked out a name for the baby	cause	1
+I put ice cubes in the hot soup	The soup cooled down	The soup became thick	effect	1
+The girl shared her lunch with her friend	Her friend forgot to bring his lunch	Her friend sat next to her at lunch	cause	1
+The police closed the investigation	They apprehended the suspect	The victim recovered	cause	1
+The rain subsided	I went for a walk	I browsed the internet	effect	1
+The cup of tea was scalding hot	I blew on it	I poured it out	effect	1
+The photograph faded	It was fake	It was old	cause	2
+The boy got a black eye	The bully mocked the boy	The bully punched the boy	cause	2
+I misplaced my wallet	I retrieved my phone	I retraced my steps	effect	2
+The hunter ran out of ammunition	He reloaded the gun	He aimed at the deer	effect	1
+Marine life diminished	Boats sailed through the ocean	Oil spilled into the ocean	cause	2
+I ran the ice cube under warm water	The ice cube stuck to my fingers	The ice cube vanished	effect	2
+The customer came into the boutique	She left her wallet at home	The window display caught her eye	cause	2
+The man drank water with his meal	His meal was cold	His meal was spicy	cause	2
+The woman stayed away from public places	She was contagious	She was intoxicated	cause	1
+The putrid odor filled the room	I clamped my hand over my nose	I put the rubber gloves on	effect	1
+The employee missed work	Her family got in touch with her	There was a death in her family	cause	2
+The magnet attracted the paperclip	The paperclip dropped from the magnet	The paperclip stuck to the magnet	effect	2
+The gardener pulled the weeds	The weeds came out of the soil	The weeds produced seeds	effect	1
+We ordered a pizza	The pizza was delivered	The pizza got cold	effect	1
+The teenager grew taller than his father	He went through a growth spurt	He joined the basketball team	cause	1
+The patient underwent the risky medical procedure	The procedure was costly	Specialists recommended the procedure	cause	2
+The man caught his shirtsleeve on the rungs of the fence	He hopped the fence	The sleeve ripped	effect	2
+The investigators deemed the man's death a suicide	He left a note	He had children	cause	1
+The computer crashed	I backed up my files	I downloaded a virus	cause	2
+The girl's mouth ached	She lost a tooth	She swallowed her gum	cause	1
+The room was dim	I opened the blinds	I washed the windows	effect	1
+The father put his daughter in her stroller	She learned to walk	He was tired of carrying her	cause	2
+The spy discovered the enemy's location	The spy bugged the enemy's phone	The spy was hired by the government	cause	1
+The glasses on the table spilled	The child drew on the table	The child yanked the tablecloth	cause	2
+The water in the teapot started to boil	The teapot cooled	The teapot whistled	effect	2
+The city re-elected the mayor	The city cut its budget	The mayor fulfilled his promises	cause	2
+The woman exaggerated the details of the story	She wanted attention	She felt shy	cause	1
+The woman hit a midlife crisis	She retired	She went sky diving	effect	2
+The man went into denial about the tragedy	He got over it easily	He refused to talk about it	effect	2
+The man grieved	His wife criticized him	His mother passed away	cause	2
+The girl had a phobia of dogs	She rescued an abandoned dog	She was bitten by a dog	cause	2
+I made a resolution to eat a healthy diet	I attended a yoga class	I bought fruits and vegetables	effect	2
+The patient went into a coma	He suffered emotional trauma	He suffered brain damage	cause	2
+The friends' dinnertime conversation turned to politics	The conversation quieted down	A debate erupted	effect	2
+The woman spotted her friend from across the room	The woman waved	The woman escaped	cause	1
+The mother needed help looking after her children	She sent the children to daycare	She gave up custody of the children	effect	1
+The driver honked her horn	Another car swerved into her lane	She made a right turn at the light	cause	1
+The man wanted to save money	He withdrew money from his savings account	He cut back on making frivolous purchases	effect	2
+I put shoes on	The floor contained broken glass	The paint on the walls was wet	cause	1
+The librarian located the book in the stacks	I requested the librarian's help	The book was checked out	cause	1
+The mother became eye level with her son	She squatted down	She held his hand	cause	1
+I packed up my belongings	I was hunting for a new apartment	I was moving out of my apartment	cause	2
+The boy mimicked his older brother	The boy looked up to his older brother	The boy wrestled with his older brother	cause	1
+The girl desired her parent's approval	She ran away from home	She obeyed her parent's rules	effect	2
+The truck crashed into the motorcycle on the bridge	The motorcyclist died	The bridge collapsed	effect	1
+The retail shop shut down	Its sales were lagging	It renewed its lease	cause	1
+The swimmer won the race	She received a gold medal	Her team lost the meet	effect	1
+Air pollution in the city worsened	Factories increased their production	Factories shut down	cause	1
+The mother scolded her daughter	Her daughter burped at the kitchen table	Her daughter set the kitchen table	cause	1
+I excused myself from the group	I turned off my phone	My phone rang	cause	2
+The skier slipped on the slope	She dropped her ski poles	She hit a patch of ice	cause	2
+The print on the brochure was tiny	The man put his glasses on	The man retrieved a pen from his pocket	effect	1
+I flipped the light switch up and down	The light faded	The light flickered	effect	2
+The man's watch was broken	He waited at the bus stop	He asked a stranger for the time	effect	2
+The soldiers were concealed in the brush	They were armed with rifles	They wore camouflage uniforms	cause	2
+The man turned on the faucet	The toilet filled with water	Water flowed from the spout	effect	2
+The girl found a bug in her cereal	She poured milk in the bowl	She lost her appetite	effect	2
+The woman retired	She received her pension	She paid off her mortgage	effect	1
+I wanted to conserve energy	I swept the floor in the unoccupied room	I shut off the light in the unoccupied room	effect	2
+The hamburger meat browned	The cook froze it	The cook grilled it	cause	2
+I doubted the salesman's pitch	I turned his offer down	He persuaded me to buy the product	effect	1
+I decided to stay home for the night	The forecast called for storms	My friends urged me to go out	cause	1
+My eyes became red and puffy	I was sobbing	I was laughing	cause	1
+The flame on the candle went out	I blew on the wick	I put a match to the wick	cause	1
+The man drank heavily at the party	He had a headache the next day	He had a runny nose the next day	effect	1
+The bowling ball knocked over the bowling pins	The man rolled the bowling ball down the alley	The man dropped the bowling ball on his foot	cause	1
+The community learned of the man's death	His family buried him in the cemetery	His obituary appeared in the newspaper	cause	2
+My computer crashed	I installed new speakers	I lost all my data	effect	2
+The woman resigned from her job	She aspired to hold an executive position in the firm	She believed her superiors were acting unethically	cause	2
+The player caught the ball	Her teammate threw it to her	Her opponent tried to intercept it	cause	1
+The judge pounded the gavel	The courtroom broke into uproar	The jury announced its verdict	cause	1
+The woman banished the children from her property	The children hit a ball into her yard	The children trampled through her garden	cause	2
+The kidnappers released the hostage	They accepted ransom money	They escaped from jail	cause	1
+The cook's eyes watered	He ran out of onions	He cut an onion	cause	2
+The woman ran her finger under cold water	She burned her finger on the toaster	She put a diamond ring on her finger	cause	1
+The student misspelled the word	The teacher corrected her	The teacher dismissed her	effect	1
+I regained composure from my fit of anger	My heart pounded	I took deep breaths	cause	2
+I put my hands under the running faucet	The soap rinsed off my hands	The water splashed in my face	effect	1
+The man dressed in his best suit	He scheduled a meeting with an important client	His wife bought him a new tie	cause	1
+The man confessed his love for the woman	The woman rejected him	The woman envied him	effect	1
+The driver got a flat tire	He went over the speed limit	He ran over a nail	cause	2
+My view of the movie screen was blocked	The couple behind me was whispering	A tall person was sitting in front of me	cause	2
+The driver turned on the car's headlights	He heard thunder	The sun went down	cause	2
+The girl refused to eat her vegetables	Her father told her to drink her milk	Her father took away her dessert	effect	2
+The woman covered her mouth with her hand	She exhaled	She sneezed	cause	2
+The secretary put the caller on hold	The caller's phone lost reception	The caller waited on the line	effect	2
+The woman walked with crutches	She shaved her legs	She broke her leg	cause	2
+I coughed	I inhaled smoke	I lowered my voice	cause	1
+The clock chimed	It was the top of the hour	The hour seemed to drag on	cause	1
+The chef hit the egg on the side of the bowl	The egg cracked	The egg rotted	effect	1
+The police searched the offender's car	They were trying to elicit a confession	They were looking for illegal drugs	cause	2
+The couple travelled south for the winter	They were retired	They were separated	cause	1
+The man felt obligated to attend the event	He turned down his friend's invitation to go	He promised his friend that he would go	cause	2
+The bride got cold feet before the wedding	The wedding guests brought gifts	She called the wedding off	effect	2
+The man grew old	His hair turned gray	He sold his belongings	effect	1
+The friends decided to share the hamburger	They cut the hamburger in half	They ordered fries with the hamburger	effect	1
+I twisted the cap off the soda bottle	The soda fizzed	The soda leaked out	effect	1
+The pair of students came under scrutiny by the teacher	The students both received excellent grades	Their responses on the assignment were identical	cause	2
+The student was in a rush to get to school on time	He left his assignment at home	He brought his lunch to school	effect	1
+The journalist wrote a biography about the humanitarian's life	The humanitarian was difficult for the journalist to interview	The journalist was intrigued by the humanitarian's work	cause	2
+The man defied the authorities of the church	He donated money to the church	He was excommunicated from the church	effect	2
+The woman's hair fell in her face	She pulled her hair back with a clip	She lathered shampoo into her hair	effect	1
+The ring on my finger got stuck	My finger swelled	I chipped my fingernail	cause	1
+I pulled the rubber band	It flung across the room	It stretched	effect	2
+I pressed my hand into the wet cement	My handprint dried in the cement	Cracks emerged in the cement	effect	1
+My skin broke out into a rash	I brushed against poison ivy in my yard	I eradicated the poison ivy from my yard	cause	1
+My subscription to the magazine expired	I discarded the new issue	I stopped receiving new issues	effect	2
+The detective revealed an anomaly in the case	He finalized his theory	He scrapped his theory	effect	2
+The boy threw a temper tantrum	His brother took his toys from him	He shared his toys with his brother	cause	1
+The child learned how to read	He began attending school	He skipped a grade in school	cause	1
+The boy skipped dinner	His mother cooked his favorite meal	He ate a big lunch	cause	2
+The woman lavished her friend with flattery	She wanted to ask her friend for a favor	She was irritated with her friend's whining	cause	1
+The key was missing from my pants pocket	The pocket had a hole	The pants were new	cause	1
+The man fainted	He took a nap	He ran a marathon	cause	2
+The man lost the competition	The competition was sabotaged	He intimidated his competitors	cause	1
+The mother called an ambulance	Her son lost his cat	Her son fell out of his bed	cause	2
+The driver slammed on his brakes	A deer appeared on the road	The car radio shut off	cause	1
+The lock opened	I turned the key in the lock	I made a duplicate of the key	cause	1
+I put rubber gloves on	I was preparing to wash my hands	I was preparing to clean the bathroom	cause	2
+The animal species became endangered	Their habitat was destroyed	Their predators went extinct	cause	1
+The man perceived that the woman looked different	The woman got her hair cut	The woman wore a bracelet	cause	1
+The student forgot to do her assignment	She made up an excuse to tell the teacher	The teacher promoted her to the next grade	effect	1
+The dog barked	The cat lounged on the couch	A knock sounded at the door	cause	2
+Plans were announced to replace a local park with a shopping mall	Environmentalists started a petition	Environmentalists produced a documentary	effect	1
+The couple was happy to see each other	They kissed	They rested	effect	1
+The woman asked the man to leave	He insulted her	He thanked her	cause	1
+The tree branch landed in the river	The branch moved downstream	The river's current became stronger	effect	1
+The teacher assigned homework to the students	The students passed notes	The students groaned	effect	2
+The seasons changed from summer to autumn	People evacuated their homes	Leaves fell from the trees	effect	2
+The politician was convicted of fraud	He campaigned for re-election	He was removed from office	effect	2
+I pushed the wagon	The objects in the wagon fell out	The wagon wheels spun forward	effect	2
+The lobbyist persuaded the legislature to support the bill	The president vetoed the bill	The legislature passed the bill	effect	2
+My closet was messy	I organized it	I decorated it	effect	1
+I stayed up late	I had vivid dreams that night	I was tired in the morning	effect	2
+The man's pocket jingled as he walked	His pocket was filled with coins	He sewed the hole in his pocket	cause	1
+Everyone in the class turned to stare at the student	The student's phone rang	The student took notes	cause	1
+The horse bucked	A fly bit the horse	The rider stroked the horse	cause	1
+The jewelry thieves were caught	The stolen jewelry was returned to its owners	The cost of the stolen jewelry was calculated	effect	1
+Political violence broke out in the nation	Many citizens relocated to the capitol	Many citizens took refuge in other territories	effect	2
+The woman was arrested	She checked into rehab	She committed assault	cause	2
+The woman read the newspaper	She discovered the outcome of the election	She casted a vote in the election	effect	1
+The sick child coughed on his friend	His friend got sick	His friend sneezed	effect	1
+The couple got engaged	They planned a wedding	They took some time apart	effect	1
+The woman contacted the real estate agent	The woman planned to buy a condo	The woman needed to clean her house	cause	1
+The man won the lottery	He became rich	He owed money	effect	1
+I lit the candle	Wax dripped off the candle	The wax on the candle hardened	effect	1
+I spent the day at the pool	I sprained my ankle	My face got sunburned	effect	2
+The man received a parking ticket	He parallel parked on the street	The parking meter expired	cause	2
+The woman became famous	Photographers followed her	Her family avoided her	effect	1
+The girl wanted to wear earrings	She got her ears pierced	She got a tattoo	effect	1
+My ears were ringing	I went to a museum	I went to a concert	cause	2
+I tidied up my house	I was swamped with work	I was expecting company	cause	2
+The airline mishandled my luggage	They offered me compensation	They cancelled my flight	effect	1
+The computer was expensive to fix	I got it repaired	I bought a new one	effect	2
+The woman was in a bad mood	She engaged in small talk with her friend	She told her friend to leave her alone	effect	2
+The item was packaged in bubble wrap	It was fragile	It was small	cause	1
+I emptied my pockets	I retrieved a ticket stub	I found a weapon	effect	1
+Termites invaded the house	The termites disappeared from the house	The termites ate through the wood in the house	effect	2
+The travelers reached the border	The patrol agent checked their passports	The patrol agent accused them of smuggling	effect	1
+The office was closed	It was a holiday	It was summer	cause	1
+The girl ran out of energy	She played checkers	She jumped rope	cause	2
+The woman lost her place in line	More people entered the line	She stepped out of the line	cause	2
+The girl pinched her nose	The baby drooled on her bib	The baby soiled her diaper	cause	2
+The band played their hit song	The audience clapped along to the music	The audience politely listened in silence	effect	1
+The girl wanted to thank her math teacher	The girl stayed after school for detention	The girl brought the teacher an apple	effect	2
+The young campers felt scared	Their camp counselor told them a ghost story	They toasted marshmallows on the campfire	cause	1
+The man hit his head	He got lost in thought	He got a concussion	effect	2
+The check I wrote bounced	My bank account was empty	I earned a pay raise	cause	1
+The man's email inbox was full of spam	He deleted the spam	He sent out a mass email	effect	1
+The sailor was quarantined	He was exposed to the disease	He recovered from the disease	cause	1
+The girl memorized the code	She recited it to herself	She forgot to write it down	cause	1
+I poured the water into the glass	The water quenched my thirst	The glass became full	effect	2
+The man remained silent when his friend finishing speaking	He wanted to offer his friend support	He was thinking about his friend's words	cause	2
+The accident was my fault	I felt guilty	I pressed charges	effect	1
+The chain came apart	The chain was wrapped around a tire	There was a broken link in the chain	cause	2
+The couple decided to compromise	They grew tired of arguing	They avoided discussing the problem	cause	1
+The woman decided to run for public office	She hired a campaign manager	She testified in court	effect	1
+The man anticipated cold weather on his trip	He packed warm clothing in his suitcase	He travelled with a big suitcase	effect	1
+The student knew the answer to the question	He raised his hand	He goofed off	effect	1
+The man's eyes watered	Dust got into his eyes	He put goggles over his eyes	cause	1
+The player won five games in a row	Her opponent accused her of cheating	Her opponent felt sorry for her	effect	1
+The teacher tore up the student's exam	He caught the student cheating	The student's answers were incorrect	cause	1
+I paused to stop talking	I lost my voice	I ran out of breath	cause	2
+The frozen food thawed	I put it in the microwave	I covered it with plastic wrap	cause	1
+The employee faked sick	He had stomach cramps	He wanted a day off	cause	2
+The girl landed in the pool	She ran on the pool deck	She jumped off the diving board	cause	2
+The movie tickets sold out	It was opening day for the movie	The movie received poor reviews	cause	1
+The man lost weight	People isolated him	People complimented him	effect	2
+The girl's hands became blistered	She typed up a letter	She climbed up a rope	cause	2
+The circus performer juggled while riding a unicycle	The audience cheered in astonishment	The acrobat swung from a trapeze	effect	1
+I lost my patience	My friend kept me waiting	My friend arrived on time	cause	1
+The warring countries wanted peace	They developed nuclear weapons	They negotiated a treaty	effect	2
+The man took sleeping medication	He became drowsy	He ran a fever	effect	1
+The woman bumped into the sofa	The leg of the sofa came loose	She bruised her knee	effect	2
+The boy squeezed the balloon	The balloon popped	The balloon flew away	effect	1
+They travelers checked into their hotel room	They unpacked their suitcases	They went to the airport	effect	1
+I bit into the peach	The peach bruised	Juice spilled out	effect	2
+My hands became sticky	I ate a doughnut	I had a sweet tooth	cause	1
+I pushed the door	The door opened	The door locked	effect	1
+Activists boycotted the products	The products were tested for quality assurance	The products were manufactured through child labor	cause	2
+I drilled a hole in the wall	A mouse crawled out of the hole	Dust blew out of the hole	effect	2
+The woman felt envious of her sister	Her sister was happy	Her sister got divorced	cause	1
+I spilled wine on my shirt	I put on an apron	I changed my shirt	effect	2
+The cashier opened the cash register	The customer searched his wallet	The customer handed her money	cause	2
+The street musician attracted a crowd	People gave him change	He sent the crowd away	effect	1
+The little boy cried to his babysitter	He missed his parents	It was snack time	cause	1
+The pilot's radar detected a storm	The pilot navigated away from the storm	The pilot flew through the storm	effect	1
+The tree shed its leaves	The leaves turned colors	The leaves accumulated on the ground	effect	2
+The boy was in a mischievous mood	He decided to play a card game with his sister	He decided to play a practical joke on his sister	effect	2
+The child complained that he had to go to the bathroom	His father gave him a soda to drink	His father stopped the car at a gas station	effect	2
+The child sprinkled fish food into the tank	The fish leapt out of the tank	The fish swam towards the food	effect	2
+The woman's political views changed	She switched her party affiliation	She engaged in a protest	effect	1
+The bathroom sink was clogged	I turned on the faucet	I poured drain cleaner into it	effect	2
+The passengers got off the train	The train arrived at the station	The train blared its whistle	cause	1
+The man pressed down on the moist flap of the envelope	He put a stamp on the envelope	He sealed the envelope shut	effect	2
+The friends lost touch	They enjoyed each other's company	They moved to different cities	cause	2
+The accountant mismanaged the company's funds	She was fired from her position	She went on maternity leave	effect	1
+I looked at the clock	I heard the clock tick	I wanted to check the time	cause	2
+My hand cramped up	I wrote the essay by hand	My wife and I held hands	cause	1
+The bolt tightened	I replaced the bolt	I twisted the wrench	cause	2
+The couple signed a lease for an apartment	The couple moved into the apartment	The city condemned the apartment	effect	1
+The woman sat outside on the porch	She wanted to watch the sunset	She thought she saw lightning	cause	1
+The man wore a lifejacket in the water	He couldn't swim	The water was shallow	cause	1
+The woman made a typo in the word processor	She deleted the document	She hit the backspace key	effect	2
+The girl bragged to her friends	She got a bad grade	She won a contest	cause	2
+The lawn was muddy	It poured overnight	It was full of weeds	cause	1
+The woman overslept	She stayed the night in a hotel	She forgot to set her alarm clock	cause	2
+The man put on sunscreen	He sat in the shade	He went to the beach	cause	2
+The researchers proved the theory	The researchers retracted the theory	Individuals accepted the theory	effect	2
+The fans at the game booed	The game went into overtime	The referee made a bad call	cause	2
+I entered my combination on the lock	I shut the lock	The lock popped open	effect	2
+The crowd intensified	The father handed his son some money	The father grabbed his son's hand	effect	2
+The snow was blocking the driveway	I gathered the snow into a snowball	I shoveled the snow out of the way	effect	2
+The kayakers paddled their oars	The kayak reached the shore	The kayak hit a wave	effect	1
+The girl lost control of her bike	She let go of the handlebars	She crashed into a fence	effect	2
+I turned on the fan	Water sprinkled onto my skin	I felt cool air pass over me	effect	2
+The surfers returned to the beach	They were drenched	They saw a shark	cause	2
+I pulled the drain plug in the bathtub	The water drained out of the tub	The water splashed onto the floor	effect	1
+The husband felt guilty about cheating on his wife	He accused her of infidelity	He confessed his infidelity to her	effect	2
+The ink on the poster smeared	I waited for the ink to dry	I spilled water on the poster	cause	2
+The child woke up screaming	He had a nightmare	He wet the bed	cause	1
+The boy put his feet up on the table	His father sat down at the table	His father lectured him	effect	2
+My friend turned his head in my direction	I shouted his name	I waved my arms	cause	1
+The government oppressed its citizens	The citizens staged a revolt	The citizens registered to vote	effect	1
+The boy was lost in the woods	He pitched a tent	He screamed for help	effect	2
+The woman travelled abroad	She wanted to learn how to draw	She wanted to learn about other cultures	cause	2
+The man was jealous of his coworker	His coworker got a promotion	His coworker worked late	cause	1
+The man witnessed aliens	He was hallucinating	He was meditating	cause	1
+The man's hair turned blonde	He put bleach in it	He put shampoo in it	cause	1
+The artist created new work	She critiqued her previous work	She felt a stroke of inspiration	cause	2
+The son moved away from home	He was discharged from the military	He was going to college	cause	2
+Books fell out of the bookcase	The shelves were covered with dust	An earthquake shook the bookcase	cause	2
+The electricity in my house shut off	I turned on a light	I reset the circuit breaker	effect	2
+We rode the roller coaster	It looked scary	It looked fun	cause	2
+The bag of popcorn began to pop	I poured butter into the bag	I heated it in the microwave	cause	2
+A tree fell on the power line	The electricity in the neighborhood went out	The forecast predicted heavy winds	effect	1
+The speaker made politically incorrect comments	He bored the audience	He offended the audience	effect	2
+I pricked myself with the pin	A bead of sweat dripped from my face	A drop of blood formed on my finger	effect	2
+The fish floated on the surface of the tank	It was hungry	It was dead	cause	2
+The man's voice sounded hoarse	He had a cold	He quit smoking	cause	1
+The elevator doors opened	The elevator arrived at the designated floor	The elevator got stuck between floors	cause	1
+The teenager snuck out of the house	He lied to his parents	His parents grounded him	cause	2
+The bathroom flooded	The toilet overflowed	The water heater broke	cause	1
+The puppy stayed near its owner	The owner put a collar on the puppy	The owner kept the puppy on a leash	cause	2
+The man caught his reflection	He stood under the sprawling tree	He stood over the calm lake	cause	2
+I missed my girlfriend's phone call	I called her back	I met her for dinner	effect	1
+The family searched the neighborhood	Their dog ran away from home	Expensive jewelry was missing from their home	cause	1
+I saw my breath when I exhaled	The weather was chilly	My chest felt tight	cause	1
+The employees formed a union	They wanted better working conditions	Their employer raised their wages	cause	1
+I baked an apple pie	A rotting smell filled the kitchen	A warm aroma filled the kitchen	effect	2
+The woman struggled to walk	She wore high heels	She took off her shoes	cause	1
+Steam rose off of the pot of water	The water boiled	I covered the pot	cause	1
+All my socks were in the laundry	I wore sandals	I wore boots	effect	1
+The politician's argument was considered absurd	He lost the support of voters	He was accused of corruption	effect	1
+Everyone disapproved of the couple's engagement	The couple got pregnant	The couple eloped	effect	2
+The building was dedicated to the millionaire	The millionaire wanted the building torn down	The millionaire contributed the funds to build it	cause	2
+The sale associate accused the girl of stealing	The sales associate saw the girl put merchandise in her purse	The sales associate helped the girl find the purse she liked	cause	1
+The country declared war on the neighboring territory	Soldiers were sent out to fight	Soldiers were reunited with their families	effect	1
+The court upheld the controversial ruling	A riot broke loose in front of the courthouse	A couple exchanged vows in front of the courthouse	effect	1
+The girl smelled something burning	She took the cookies out of the jar	She left the cookies in the oven	cause	2
+The rain was pouring down	The storm worsened	I dashed to get inside	effect	2
+The building was evacuated	The elevator stopped functioning	The fire alarm went off	cause	2
+The father resented his son's alcoholism	The father bought his son a beer	The father kicked his son out of the house	effect	2
+The lawyer took the stairs up to her office	The secretary went home for the day	The elevator was out of order	cause	2
+The man became annoyed with his friend	His friend interrupted him	His friend bought him lunch	cause	1
+The girl handed her money to the cashier	The cashier gave the girl her change	The cashier forgot to give the girl a receipt	effect	1
+The woman was put in a wheelchair	She was paralyzed in an accident	She entered the hospital in a stretcher	cause	1
+Citizens hung the national flag up outside their homes	The country was commemorating its independence	The country was facing economic hardship	cause	1
+The team lost the tournament	They disappointed their fans	They inspired their fans	effect	1
+My friend pointed out that I had food stuck in my teeth	I felt embarrassed	I felt proud	effect	1
+The boy failed his history exam	He paid attention in class	He forgot to study	cause	2
+The downtown building collapsed	An earthquake hit the city	Crime rates in the city increased	cause	1
+The man's girlfriend broke up with him	He begged her to take him back	She introduced him to her parents	effect	1
+The two children simultaneously reached down to retrieve the ball	The ball rolled away	Their heads collided	effect	2
+The raccoon ransacked the garbage can	There was cardboard in the garbage can	The lid was off the garbage can	cause	2
+The boy sharpened the pencil	It was cheap	It was dull	cause	2
+The cashier denied the woman a refund for the dress	She lost her receipt	The dress didn't fit	cause	1
+The scratch in my skin was deep	It healed quickly	It left a scar	effect	2
+The man received strange looks from passengers on the train	He was staring at the ground	He was talking to himself	cause	2
+The child left crumbs on the floor	Ants crawled to the crumbs	The child put the bread away	effect	1
+The woman handed her sister a tissue	The woman's sister folded her hands	The woman's sister began to cry	cause	2
+The man took a mint	His lips were chapped	He worried about bad breath	cause	2
+The couple left early for the show	They anticipated traffic around the theatre	They got directions to the theatre	cause	1
+The woman stayed home from work	Her boss praised her	Her coworker covered for her	effect	2
+The man signed the activists' petition	He supported their cause	He denounced them as crazy	cause	1
+The actor's heart was fluttering before his performance	He had stage fright	He memorized his lines	cause	1
+I was lost	I counted my cash	I unfolded a map	effect	2
+The ripe fruit lingered in the sun	It was eaten	It shriveled up	effect	2
+The car broke down	I turned the ignition	The engine overheated	cause	2
+The man hurt his back	He went to see a psychiatrist	He stayed in bed for several days	effect	2
+I started a fire in the fireplace	I was out of firewood	It was cold in the house	cause	2
+The woman stopped jogging	She got a cramp in her side	She got a second wind	cause	1
+I knocked on my neighbor's door	My neighbor invited me in	My neighbor left her house	effect	1
+The woman sighed with frustration	Her husband misunderstood her concerns	Her husband kissed her goodbye	cause	1
+The teacher commended the student	The student answered the question correctly	The student hesitated to answer the question	cause	1
+The woman ran out of eggs	She went to the farm	She went to the supermarket	effect	2
+I encountered an old friend	I revealed a secret to him	I gave him a hug	effect	2
+The woman avoided going in the lake	She caught a fish	It looked contaminated	cause	2
+The student arrived to class soaking wet	His umbrella was broken	His bike was stolen	cause	1
+The cursor on the computer screen moved	The user clicked the mouse	The user shifted the mouse	cause	2
+The driver took a detour	An accident occurred on the main road	She followed the truck in front of her	cause	1
+I hung the wet linen on the outdoor clothesline	The linen dried	The linen stained	effect	1
+The woman put on her shades	The sunlight was bright	She hailed a cab	cause	1
+The man gazed at the night sky	He wished it were summer	He thought it was beautiful	cause	2
+I felt exhausted	I went to bed early	I stayed up all night	effect	1
+The man went to the barber	He was growing out his hair	His hair was getting long	cause	2
+The boy played mean tricks on his new classmate	The boy welcomed the new classmate	The boy disliked the new classmate	cause	2
+I craved a glass of milk	I was eating cookies	I was baking bread	cause	1
+It began to rain	The driver turned on the headlights	The driver shifted the car into reverse	effect	1
+The parking lot of the building was empty	I parked across the street	I parked near the entrance	effect	2
+The writer missed her deadline for the draft submission	She had writer's block	She edited the draft	cause	1
+The associate hung up on me	I asked to speak to a supervisor	I provided my identification number	cause	1
+The wind blew through the open window	The doorbell rang	The curtains shuddered	effect	2
+The electricity in my house shut off	I unplugged the lamp	I blew a fuse	cause	2
+The weightlifter grunted	He flexed his muscles in the mirror	He lifted the bar over his head	cause	2
+The student tried to do the math in his head	He got out a calculator	He got confused	effect	2
+The baby fell asleep	The father changed the baby's diaper	The father gently rocked the baby	cause	2
+The girl threw the water balloon at the boy	The boy got a concussion	The boy got soaked	effect	2
+The photographer forgot to use the flash on the camera	The photos turned out blurry	Everyone in the photos refused to smile	effect	1
+I declined the invitation to the birthday party	I was lonely	I was out of town	cause	2
+I exercised	I felt energetic	I was scared	cause	1
+I squeezed the damp sponge	It soaked up water	Water seeped out of it	effect	2
+The vacationers took a ferry to the resort	The resort was booked	The resort was on an island	cause	2
+The teenager got a tattoo	She was afraid of needles	She wanted to rebel	cause	2
+An unfamiliar car parked outside my house	I became suspicious	I called the police	effect	1
+The criminal turned himself in	The evidence implicated him	 There was no evidence against him	cause	1
+The heavyset man decided to lose weight	He cut out sweets	He avoided caffeine	effect	1
+The girl stepped on the ice	She slid	She shivered	effect	1
+The woman had rings under her eyes	She stayed up all night	She put her son to bed	cause	1
+Lava flowed from the volcano	The volcano erupted	The volcano was dormant	cause	1
+The woman put her shoes on	She knew everyone at the party	She wanted to leave the party	cause	2
+I paid the tollbooth attendant	She let me pass through the tollbooth	She detained me at the tollbooth	effect	1
+The executive went bankrupt	He sold his company stock	He squandered his fortune	cause	2
+The man went to the doctor	The doctor was on leave	The man felt ill	cause	2
+I exited my bedroom through the window	The house was on fire	The house was empty	cause	1
+The boy's fingers became pruny	He took a long shower	He lathered his hands with soap	cause	1
+I spit out the milk	The milk tasted sour	My mouth was dry	cause	1
+I missed the bus	I was early to work	I was late to work	effect	2
+The truck collided with the car	The truck sped up	The car got smashed	effect	2
+The team rigged the contest in their favor	They won	 They dropped out	effect	1
+The soda bottle hissed	I turned over the bottle	I twisted off the cap	cause	2
+The boy was locked out of his house	He crawled in through an open window	He climbed up to the roof	effect	1
+The doorbell rang	The visitor tapped the knocker on the door	The woman peered through the keyhole in the door	effect	2
+The man stained his suit	He got it dry-cleaned	He hung it in his closet	effect	1
+The girl squeezed the tube of toothpaste	The toothpaste squirted out of the tube	The girl spit out the toothpaste	effect	1
+Civilian deaths from the war surged	Pacifists staged a protest	Pacifists held a parade	effect	1
+The girl yanked the ribbon out of her hair	She tied the ribbon	The ribbon looked babyish	cause	2
+The man got plastic surgery	He aged	He looked younger	effect	2
+A baby chicken emerged from the egg	The egg hatched	I cracked the egg	cause	1
+The prisoner starved	He died	He fled	effect	1
+The man lost his balance on the ladder	He climbed up the ladder	He fell off the ladder	effect	2
+The child burped	He took a swig of soda	He opened the soda can	cause	1
+A cold draft came in through the window	I relaxed	I shivered	effect	2
+The student received a scholarship to go to college	Her classmates respected her	She made good grades	cause	2
+The girl poked fun at the boy	She lived next door to him	She had a crush on him	cause	2
+The hungry vagrant stole food	He incited pity	He had no money	cause	2
+I called my friend to chat	I wanted privacy	I felt lonely	cause	2
+The man extended his hand to me	I shook his hand	I slapped him	effect	1
+I ducked	The fireworks launched up in the air	The frisbee soared towards my head	cause	2
+The girl bit her nails	She was worried	She was surprised	cause	1
+I turned the page on the calendar	I marked an appointment on the calendar	It was the beginning of a new month	cause	2
+The husband discovered that his wife was having an affair	He fired his lawyer	He filed for divorce	effect	2
+The girl dropped the rubber ball	The ball bounced	The ball glowed	effect	1
+The girl made a mistake on her exam	She guessed at the answer	She erased her answer	effect	2
+The player tackled his opponent	His opponent caught the pass	His opponent hit the ground	effect	2
+I picked the tomatoes from the vine	They were ripe	I watered them	cause	1
+The man wanted to act romantic	He met his ex-girlfriend for lunch	He bought his girlfriend chocolates	effect	2
+The mercury in the thermometer rose	I dropped the thermometer	The weather got warmer	cause	2
+A tornado came through the town	The roof of the courthouse blew off	The highway became dangerously icy	effect	1
+The student received tutoring	His grades improved	He cheated on the exam	effect	1
+I felt comfortable	I kneeled down on the ground	I wrapped myself in a blanket	cause	2
+I polished the stone	It became slippery	It became shiny	effect	2
+I added sugar to the coffee	The coffee smelled strong	The coffee tasted sweet	effect	2
+The man shuffled through the papers	He got a paper cut	He shredded the papers	effect	1
+I pounded the nail with the hammer	The nail sunk into the wood	The nail became rusty	effect	1
+The fish bit the line	The fisherman reeled in the fish	The fisherman recast the line	effect	1
+The teenager was embarrassed to go to school	She got a pimple	She got her braces off	cause	1
+My facial expression lit up	I received good news	I lost my patience	cause	1
+I wiped my hands with a towel	The towel was wet	My hands were wet	cause	2
+The man lost his balance on the stool	The stool wobbled underneath him	He spilled paint on the stool	cause	1
+The teammates directed blame at each other	They lost their game	Their coach cancelled practice	cause	1
+I asked for forgiveness	I regretted my mistake	I achieved my goal	cause	1
+The woman became bored with her date	He asked her questions about herself	He talked incessantly about himself	cause	2
+The girl flashed a smile	Her cheeks reddened	Her dimples showed	effect	2
+The enemy ship blew up	It passed over the mine	It sailed into the harbor	cause	1
+The man punctured his foot	He walked into a puddle	He stepped on broken glass	cause	2
+The detectives dusted the crime scene for fingerprints	They discovered the identity of the murderer	They found the weapon at the crime scene	effect	1
+There was a lot of traffic on the highway	I took a detour	I asked for a ride	effect	1
+The nation's economy declined	Many people got sick	Many people faced unemployment	effect	2
+The crossing guard blew her whistle at the children	They were about to walk into oncoming traffic	She recognized them from her neighborhood	cause	1
+I rolled my eyes at my friend	He told me the truth	He made a sarcastic remark	cause	2
+The car ran out of gas	The driver was stranded on the road	The driver picked up a hitchhiker	effect	1
+The woman went into labor	The baby was delivered	The woman had morning sickness	effect	1
+The man's hat blew away	He took off the hat	It was windy outside	cause	2
+The girl attended her classmate's birthday party	She received an invitation	She bought a gift	cause	1
+The boy's forehead felt hot	His mother took his temperature	His mother took him to the park	effect	1
+The man sprayed himself with cologne	He wanted to impress his date	He put gel in his hair	cause	1
+The electricity in the house shut off	I looked for a flashlight	I picked up a shovel	effect	1
+The family moved into a bigger house	The son graduated from high school	The mother gave birth to twins	cause	2
+The marathoner kept at a slow pace	She wanted to conserve her energy	She saw the finish line	cause	1
+The boy kicked the vending machine	The machine spit out the change	The bag of chips was stuck	cause	2
+My friend's dog died	I rolled my eyes at him	I gave him a hug	effect	2
+The businessman's credit card got declined	He wrote an IOU	He paid with cash	effect	2
+The man cursed	He clipped his nails	He stubbed his toe	cause	2
+The man felt proud of his brother	His brother got in an argument with their parents	His brother got accepted into law school	cause	2
+The girl wanted to learn about the solar system	She went to the library	She looked at the stars	effect	1
+The poster stuck to the wall	I positioned the poster above the door	I put tape on the back of the poster	cause	2
+The client approved the architect's plans for the building	The architect constructed the building	The architect adjusted the plans	effect	1
+The man dropped his spoon	His hand was shaking	He licked the spoon	cause	1
+The CEO of the company resigned	The board of directors dissolved the company	The board of directors found his replacement	effect	2
+I arrived late to the lecture	I took a seat in the back row	I approached the podium	effect	1
+The man was released from jail	His family paid his bail	He attacked a fellow inmate	cause	1
+The family lost all their belongings	They sold their house	Their house caught fire	cause	2
+I stomped on the aluminum can	The can was recycled	The can got crushed	effect	2
+The girl joined the debate team	She learned to use a computer	She learned communication skills	effect	2
+My mood improved	I listened to music	I did the dishes	cause	1
+The charity made a goal to raise money	They fed the homeless	They held an auction	effect	2
+The roller coaster plunged down the steep drop	The passengers giggled	The passengers screamed	effect	2
+I was furious	I checked the mailbox upon leaving the house	I slammed the door upon leaving the house	effect	2
+The man wanted to watch the sunrise	He travelled north	He got up early	effect	2
+I folded the paper	I recycled the paper	The paper creased	effect	2
+The nation endured a natural disaster	Leaders of other countries formed an alliance	Leaders of other countries sent emergency relief	effect	2
+The boy's clothes got soaked	He climbed out of the pool	He fell into the pool	cause	2
+The student rushed to finish the book	It was due to be returned to the library	He borrowed it from a friend	cause	1
+The criminal was executed	He was thrown in jail	He was convicted of murder	cause	2
+Sunlight entered the room	I opened the curtains	I unlocked the door	cause	1
+I yanked the imposter's hair	Her wig came off	She went bald	effect	1
+The editor reworded a sentence in the manuscript	He found the manuscript compelling	He deemed the sentence unclear	cause	2
+The woman cancelled her credit card account	She realized the card was missing	She realized the card was expired	cause	1
+The man and woman fell in love	They attended college	They got married	effect	2
+The music was too faint to hear	I turned up the volume	I composed my own song	effect	1
+The boy's hair was sticking up	The girl ruffled it	The girl pulled it	cause	1
+The bug got squashed	I sprayed myself with bug repellent	I stepped on the bug	cause	2
+I opened my eyes	I woke up	I relaxed	cause	1
+My neighbor's music was blaring	I asked him to turn it down	I asked to borrow the CD from him	effect	1
+The man's family lived in poverty	He was frugal with his earnings	He earned below minimum wage	cause	2
+The student graduated from the university	He looked for a job	He took up a hobby	effect	1
+The artist mixed yellow paint into blue paint	The paint splattered everywhere	The paint turned green	effect	2
+I changed the topic of conversation	I ran out of things to talk about	The conversation became tense	cause	2
+My brother was released from the hospital	I welcomed him back home	I gave him the cold shoulder	effect	1
+The curtain on the stage went up	The opening scene of the play began	The actors in the play exited the stage	effect	1
+The hostage submitted to the kidnapper's mandates	The kidnapper threatened to hurt the hostage	The kidnapper left the hostage by himself	cause	1
+A boom reverberated across the stage	The musician tapped his foot	The musician pounded the drum	cause	2
+The parents rushed to their child's bedroom	The child awoke screaming from a nightmare	The child was scared to look under her bed	cause	1
+The woman communicated with sign language	She was born premature	She was born deaf	cause	2
+A drought occurred in the region	The water became contaminated	The crops perished	effect	2
+The cat chased the bird	The bird flew away	The bird caught a worm	effect	1
+The girl switched schools	School let out for the summer	She moved to a new town	cause	2
+The factory owner refused to raise employees' wages	The owner appointed a new manager	The employees went on strike	effect	2
+The leader antagonized the extremists among his country	The extremists influenced him	The extremists assassinated him	effect	2
+I walked barefoot on the beach	Sand stuck to my feet	Waves crashed along the shore	effect	1
+I woke up in the middle of the night feeling cold	I put sweatpants on	I drank a glass of water	effect	1
+The mother hushed her son	Her son smirked	Her son whined	cause	2
+A hole ripped in my jeans	I zipped up the jeans	I tripped on the pavement	cause	2
+The boy wore braces	He got a cavity	His teeth became straight	effect	2
+I worked out at the gym yesterday	I woke up today with sore muscles	I woke up today with a sore throat	effect	1
+The girl whispered back and forth to each other at the lunch table	Other students sat down at the lunch table	Other students at the lunch table felt left out	effect	2
+The child landed on the trampoline	She sprung back up into the air	She decided to try to do a flip	effect	1
+I deposited the letter in the mailbox	The post office delivered the letter	The post office expedited the letter	effect	1
+The gambler was confident	He bet all of his money	He went home broke	effect	1
+The forest fire spread	The winds became stronger	The arsonists were apprehended	cause	1
+The child skinned his knee	His mother sent him to his room	His mother put a bandage on the wound	effect	2
+The man survived the deadly illness	He signed his will	He received an organ transplant	cause	2
+I took a sip of the scalding coffee	I bit my tongue	I burnt my tongue	effect	2
+The editor fired the writer	The writer avoided bias in her stories	The writer missed an important deadline	cause	2
+I felt exhausted	I slept all day	I studied all day	cause	2
+The physician diagnosed the patient	She identified the patient's symptoms	She prescribed pills to the patient	cause	1
+I scratched my skin	It was sweaty	It felt itchy	cause	2
+The man underwent emergency surgery	He lost his temper	He suffered a heart attack	cause	2
+The man's arm muscles bulged	He flexed his arms	He rubbed his arms	cause	1
+The man raised his eyebrows	He was surprised	He felt discouraged	cause	1
+I excused my colleague's blunder	I believed his intentions were good	I believed that he knew better	cause	1
+The man quit smoking	He began exercising more	He started waking up earlier	effect	1
+The woman punched her attacker in the nose	The attacker's body went lifeless	The attacker started to bleed	effect	2
+The dart missed the bull's eye	The man's aim was off	The man was losing the game	cause	1
+The homeowner requested that an exterminator come to his house	He discovered rats in the basement	He kept an ant farm in his room	cause	1
+I suggested to my houseguest that we go out to dinner	I was too tired to prepare anything	My houseguest overstayed her welcome	cause	1
+The girl caught her brother reading her diary	She started hiding the diary	She got a new diary	effect	1
+The woman was short on money for rent	She worked overtime	She quit her job	effect	1
+The child's hand quickly recoiled	He touched the hot stove	He patted the puppy's head	cause	1
+The company wanted to gauge customer satisfaction	They offered a discount to new customers	They distributed a survey to customers	effect	2
+The wood floor became scratched	The boy threw the cushions off the couch	The boy dragged a chair across the floor	cause	2
+I shielded my face	My enemy taunted me	My enemy cocked a fist	cause	2
+The famous statue burned down	It was struck by lightning	People came to venerate it	cause	1
+I left the fruit out on the table	The fruit shed seeds	Flies swarmed the fruit	effect	2
+The ballerina tore a ligament	She pointed her toes	She twisted her ankle	cause	2
+The child's shoelaces came untied	He learned how to tie them	He ran around on the playground	cause	2
+I became enthralled in the book	I returned the book	I lost track of time	effect	2
+The man held similar beliefs to those of his parents	His parents influenced him	His parents disowned him	cause	1
+The car gradually slowed to a stop	It ran out of gas	The driver fell asleep	cause	1
+The man ate the ice cream in the sun	The ice cream lost its flavor	The ice cream dripped from the cone	effect	2
+I hung artwork in the room	The carpet looked dirty	The walls looked bare	cause	2
+I left work early	I had a headache	My boss held a meeting	cause	1
+The puppy soiled the carpet	The owner scolded the puppy	The owner gave the puppy a treat	effect	1
+I apologized to my friend	My friend forgave me	My friend became infuriated	effect	1
+The man stood out in the crowd	He carried a backpack	He wore a neon vest	cause	2
+The witness lied under oath	He completed his testimony	He was charged with perjury	effect	2
+The woman dyed her hair	She wanted a new look	She wanted to blend in	cause	1
+The immigrants were caught illegally residing in the country	They found employment	They were deported	effect	2
+The public speaker cracked a joke	The audience laughed	The audience stood up	effect	1
+I looked into the sun	The sun blinded me	The sun tanned my skin	effect	1
+I felt bored	I snorted	I yawned	effect	2
+The steak was difficult to cut	The knife was dull	The steak was raw	cause	1
+The woman declared bankruptcy	She received alimony payment	She acquired massive debt	cause	2
+The lights in my friend's apartment were on	I wondered if he was out	I decided to pay him a visit	effect	2
+I put the flower under my nose	The petals came off the flower	I picked up the flower's scent	effect	2
+The woman felt nostalgic	She ran into a childhood friend	She yelled at her children	cause	1
+The student procrastinated on the paper	He submitted the paper early	He submitted the paper incomplete	effect	2
+My car broke down	I went to the mall	I called a mechanic	effect	2
+I discarded the note	It was anonymous	It was illegible	cause	2
+The bird flapped its wings	It laid eggs	It ascended upwards	effect	2
+I parked in the driveway	The garage was open	The garage was full	cause	2
+The criminal aimed the gun at his victim	The criminal put down the gun	The victim put his hands up	effect	2
+I looked forward to the weekend	I planned to attend my uncle's funeral	I planned to attend my friend's wedding	cause	2
+I lost track of time	I was daydreaming	I was nauseous	cause	1
+The document printed out illegibly	The printer was low on ink	The print was out of paper	cause	1
+The stadium played the national anthem	The fans turned to the flag	The fans rushed the field	effect	1
+The dip tasted bland	I served it	I put salt in it	effect	2
+I set the paper towel on the spill	The towel absorbed the liquid	The spill left a sticky residue	effect	1
+The woman was interrupted in the midst of reading her book	She bookmarked her page	She reread the book	effect	1
+The plane hit some turbulence	The man tightened his seatbelt	The man looked out the window	effect	1
+The boy flinched	The girl ignored him	The girl poked him	cause	2
+The doctors gave the patient an artificial limb	They amputated her leg	They monitored her vitals	cause	1
+The boy pinched the girl's elbow	She shrugged her shoulders at him	She jerked her arm away from him	effect	2
+I asked my friend for advice	I valued his opinion	I knew I was right	cause	1
+The boy stepped in mud	The mud stuck to his shoes	The mud hit him in the face	effect	1
+The town received several inches of snow	Schools shut down	People hid underground	effect	1
+The employee's shift ended	He went home for the day	He threatened to quit the job	effect	1
+The tree damaged the house	The tree fell onto the roof	The tree shaded the backyard	cause	1
+The wood split in half	I stacked the wood in the fireplace	I swung the axe down to the wood	cause	2
+The family congratulated the couple	The couple announced that they were separating	The couple announced that they were having a baby	cause	2
+The girl sent the boy a valentine	She liked him	She kissed him	cause	1
+I nodded my head at my friend's statement	I was confused	I agreed with him	cause	2
+The friends flipped a coin	They wanted to find a compromise	They wanted to make a fair decision	cause	2
+The timer in the kitchen went off	The man unloaded the groceries into the refrigerator	The man took the pizza out of the oven	effect	2
+The woman set an ambitious goal	She slacked off	She worked hard	effect	2
+The wealthy man died of old age	His son got into legal trouble	His son inherited his fortune	effect	2
+The woman stomped on the flames	The flames went out	Smoke arose from the flames	effect	1
+The woman's car was in the shop	Her driver's license was revoked	She got in a car accident	cause	2
+I slept through my alarm	I made breakfast	I missed breakfast	effect	2
+The public figure got out of the limousine	Cameras flashed in his direction	His family attended the press conference	effect	1
+The woman lingered in the bathtub	The bathwater became lukewarm	The bathwater drained out of the tub	effect	1
+The college student wanted to meet other students on campus	He joined a fraternity	He majored in engineering	effect	1
+I lifted up the couch cushions	I was looking for loose change	I was rearranging the living room	cause	1
+The wasp flew towards the boy	The boy ran away	The boy picked a flower	effect	1
+The woman was found guilty of a misdemeanor	She was sentenced to perform community service	She was put on death row	effect	1
+I stirred the sugar into the hot tea	The tea steamed	The sugar dissolved	effect	2
+The veteran walked with a limp	He was drafted for the war	He was injured in battle	cause	2
+The criminal ran away from the police	The police attended to the victim	The police chased the criminal	effect	2
+The laptop wouldn't turn on	I dropped it	I charged it	cause	1
+The woman ran out of room in her closet	She acquired an extensive wardrobe	She folded her laundry	cause	1
+The man was heartbroken	His wife gave birth	His wife left him	cause	2
+The man obtained a degree	He became qualified for the job he wanted	His job offer was rescinded	effect	1
+The man's voice projected clearly throughout the auditorium	He greeted the audience	He spoke into the microphone	cause	2
+I tossed a coin into the fountain of water	The coin sunk to the bottom	The coin broke in half	effect	1
+The player hit the ball toward the hole	The ball went in the hole	The ball retreated back to the player	effect	1
+I breathed in the dust in the attic	I hiccupped	I sneezed	effect	2
+The store cashier called security	The customer used counterfeit money	The customer left his headlights on	cause	1
+I took the garbage out	The garbage made the kitchen smell bad	I accidentally threw away my shopping list	cause	1
+The family went to the zoo	The children admired the animals	The children chased the animals	effect	1
+The man's breathing was loud	His kidneys were failing	His lungs were congested	cause	2
+I had an extra ticket for the concert	I asked my friend for directions to the venue	I asked my friend if he was interested in going	effect	2
+The air conditioner in the house broke	I brought out blankets	I opened the windows	effect	2
+The boy's back ached	His backpack was open	His backpack was heavy	cause	2
+I bought my mother a present	I baked her a cake	It was her birthday	cause	2
+The daffodils in the garden were destroyed	A bee stung the gardener	Squirrels dug up the bulbs	cause	2
+I struck the match	The flame faded out	The match produced a flame	effect	2
+The disputing parties reached a settlement	They didn't want to debate in court	They wanted to repair their personal relationship	cause	1
+The children were sent to an orphanage	Their parents died	Their parents spoiled them	cause	1
+A meteorite landed in the ocean	A tsunami occurred	It began to hail	effect	1
+The hiker encountered a poisonous snake	She became dehydrated	She panicked	effect	2
+The oven became hot	I turned the oven on	I put the dish in the oven	cause	1
+I squeezed the lemon wedge	The lemon got moldy	The lemon squirted	effect	2
+The country discovered new land	The country abandoned the land	The country colonized the land	effect	2
+The glass toppled off the table	It shattered all over the floor	It landed in a pile of laundry	effect	1
+The table wobbled	The floor was uneven	The floor was slippery	cause	1
+The father caught his son lying	His son confessed the truth	The father trusted his son	effect	1
+The man's head throbbed with pain	He took cough syrup	He took aspirin	effect	2
+The train slowed down	It was approaching the station	It was running behind schedule	cause	1
+The man went through therapy	Mental illness ran in his family	He was diagnosed with depression	cause	2
+The woman clutched her throat	She swallowed her food	She choked on her food	cause	2
+The woman had a sore throat	Her voice sounded raspy	She spoke with an accent	effect	1
+The dog eyed the juicy steak on the table	It drooled	It laid down	effect	1
+The woman's business succeeded	She fired her employees	She became wealthy	effect	2
+The students exited the classroom	The bell rang	The teacher assigned homework	cause	1
+The woman claimed she saw a ghost	Her acquaintances expressed skepticism	Her acquaintances related to her	effect	1
+The man lost his hearing	He nearly drowned in the ocean	He was nearly killed in an explosion	cause	2
+The child let go of the balloon string	The balloon deflated	The balloon rose into the air	effect	2
+The man lost his ability to speak	He had a stroke	He took a deep breath	cause	1
+The woman tripped on the sidewalk	There was a crack in the cement	She heard her name being called	cause	1
+The man did a canon ball into the pool	The lifeguard jumped in after him	The man soaked the lifeguard	effect	2
+I took antibiotics	My infection cleared up	My infection spread	effect	1
+The traffic light turned yellow	The driver pushed the brake	The driver honked his horn	effect	1
+The plastic container melted	I soaked the container in warm water	I placed the container on the hot stove	cause	2
+The car got dented	The driver hit a telephone pole	The driver ran a red light	cause	1
+The boy studied all night	He skipped the exam	He passed the exam	effect	2
+The young boy clung to the ledge of the pool	He feared learning to swim	The lifeguard was on duty	cause	1
+I put my hand to my chest	I felt my heartbeat	My heart rate sped up	effect	1
+The building adjacent to my office was under construction	My office was crowded	My office was noisy	effect	2
+The family wanted to get to know their new neighbors	The family invited the neighbors over for dinner	The family waved to the neighbors from their yard	effect	1
+Water splashed up from the pool	The swimmer dove into the pool	The swimmer floated in the pool	cause	1
+I bit into a slice of watermelon	I accidentally swallowed a seed	I accidentally chipped my tooth	effect	1
+The boy tripped	His jacket was unzipped	His shoelaces were untied	cause	2
+The woman put earplugs in	She was distracted by noise	She got her ears pierced	cause	1
+I refilled my water bottle	I drank all the water in it	I kept it in the fridge	cause	1
+The television show was censored	It contained vulgar language	It had a complicated plot	cause	1
+The ship wrecked	The crew drowned	The crew encountered pirates	effect	1
+The boy felt stumped by the riddle	He solved the riddle	He requested a hint	effect	2
+The phone rang	The man hung up the phone	The man picked up the phone	effect	2
+The woman was staring at me	I hugged her	I felt uncomfortable	effect	2
+The group left the museum	They took pictures of the exhibits	They viewed all the exhibits	cause	2
+The man started an argument with me	My friend introduced me to the man	My friend stood up for me	effect	2
+The tire on my bike was flat	I pumped air into the tire	I switched gears on the bike	effect	1
+The girl looked pale	Her father read her a story	Her father felt her forehead	effect	2
+The pen ran out of ink	I used a pencil	I signed my name	effect	1
+The man was denied for a loan	He was in debt	He started a business	cause	1
+The girl stayed home from school	She had chicken pox	She enjoyed learning math	cause	1
+The trash bag was full	I took it to the dumpster	I dumped it down the sink	effect	1
+I vacuumed the carpet	My roommate spilled punch	My dog shed hair	cause	2
+The man lost his temper	He turned off his computer	He threw a chair across the room	effect	2
+The girl threw a twig into the campfire	The twig burned	The fire went out	effect	1
+The man got out of the shower	The hot water was gone	He couldn't find a towel	cause	1
+The parents wanted their children to go to college	They set aside a savings fund for tuition	They encouraged their children to play outside	effect	1
+The man unlaced his shoes	The shoes loosened	The shoes became worn	effect	1
+The man ate half of the entree	He refrigerated the leftovers	He saved the recipe	effect	1
+My ankle was swollen	I put ice on it	I rubbed lotion on it	effect	1
+My office door was open	I talked to my colleague at my desk	I overheard the conversation in the hall	effect	2
+I had to wait in line	I took a seat	I skimmed a magazine	effect	2
+The man swatted at the fly	The fly buzzed away	The fly stayed still	effect	1
+The man wrote a will	He was dying	He was a widower	cause	1
+The runner sensed his competitor gaining on him	He dropped out of the race	He sped up his pace	effect	2
+I thought carefully about the problem	I asked for advice	I came up with a solution	effect	2
+The traveler walked on the shaky suspension bridge	He felt terrified	He felt ecstatic	effect	1
+The man anticipated the team's victory	He met his friends to watch the game	He made a bet with his friends	effect	2
+The boy couldn't fall asleep	He set his alarm clock	He counted sheep	effect	2
