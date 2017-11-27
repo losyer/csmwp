@@ -10,37 +10,39 @@ It is impossible to run this code on Python3.
 
 #### Set your files' paths
 -f
-    Set your copa-file path.
-    You can use my file: copa-file.txt
+- Set your copa-file path.
+- You can use my file: copa-file.txt
 
 -word_comb_file
-    Set your path of word combinations file(JSON).
-    You can use my file: word_comb_file.json or word_comb_file_with_mwp.json
+- Set your path of word combinations file(JSON).
+- You can use my file: word_comb_file.json or word_comb_file_with_mwp.json
 
 -json_dic
-    Set your paths of 3 json-dictionary files(cause-result-cooccurence-frequency dic, cause-word-frequency dic, result-word-frequency dic).
+- Set your paths of 3 json-dictionary files(cause-result-cooccurence-frequency dic, cause-word-frequency dic, result-word-frequency dic).
 
 -vc
-    Set path of sorted vocabulary file for cause word.
+- Set path of sorted vocabulary file for cause word.
 
 -vr
-    Set path of sorted vocabulary file for result word.
+- Set path of sorted vocabulary file for result word.
 
-Hyper parameter:
+##### Hyper parameter:
 -l
-    Set float value for lambda in CS equation.
+- Set float value for lambda in CS equation.
+
 -a
-    Set float value for alpha in CS equation.
+- Set float value for alpha in CS equation.
+
 -t
-    Set int value for threshold for filtering high frequency terms.
-    If you filter top-10 frequent words, set this value to be 10.
+- Set int value for threshold for filtering high frequency terms.
+- If you filter top-10 frequent words, set this value to be 10.
 
-OPTIONAL:
+##### OPTIONAL:
 -p
-    Option to print results' detail.
+- Option to print results' detail.
 
 
----JSON DICTIONARY FILE DETAILE
+### ---JSON DICTIONARY FILE DETAILE
 cause-result-cooccurence-frequency dic:
     key = "cause_word:result_word"
     value = frequency of cooccurence
@@ -50,13 +52,18 @@ cause(result)-word-frequency dic:
     value = frequency of occurence
 
 
----VOCABLARY FILE EXAMPLE
+### ---VOCABLARY FILE EXAMPLE
 Frequency\tWord
 
 $ cat vocabulary.tsv
+
 16283892        use
+
 14674044        want
+
 13099278        make
+
 12503586        know
+
 ...
 
