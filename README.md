@@ -1,5 +1,6 @@
 ### How to run
 cd <PATH_TO_REPOSITORY>
+
 python bin/solve_copa.py -f data/copa-file.txt -word_comb_file data/word_comb_file_with_mwp.json -json_dic data/freq_dic/c_r_dic_with_mwp.json data/freq_dic/c_dic_with_mwp.json data/freq_dic/r_dic_with_mwp.json -vc data/vocabulary/vocab_c_with_mwp.tsv -vr data/vocabulary/vocab_r_with_mwp.tsv -l 0.7
 
 ### How to use
