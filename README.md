@@ -1,9 +1,9 @@
 ### How to run
-- $cd <PATH_TO_REPOSITORY>
-- $python bin/solve_copa.py -f data/copa-file.txt -word_comb_file data/word_comb_file_with_mwp.json -json_dic data/freq_dic/c_r_dic_with_mwp.json data/freq_dic/c_dic_with_mwp.json data/freq_dic/r_dic_with_mwp.json -vc data/vocabulary/vocab_c_with_mwp.tsv -vr data/vocabulary/vocab_r_with_mwp.tsv -l 0.7
+- $`cd <PATH_TO_REPOSITORY>`
+- $`python bin/solve_copa.py -f data/copa-file.txt -word_comb_file data/word_comb_file_with_mwp.json -json_dic data/freq_dic/c_r_dic_with_mwp.json data/freq_dic/c_dic_with_mwp.json data/freq_dic/r_dic_with_mwp.json -vc data/vocabulary/vocab_c_with_mwp.tsv -vr data/vocabulary/vocab_r_with_mwp.tsv -l 0.7`
 
 ### How to use
-- $python solve_copa.py -f copa-file_path -word_comb_file word-comb-file_path -json_dic dic1 dic2 dic3 -vc vocabulary-file_path1 -vr vocabulary-file_path2
+- $`python solve_copa.py -f copa-file_path -word_comb_file word-comb-file_path -json_dic dic1 dic2 dic3 -vc vocabulary-file_path1 -vr vocabulary-file_path2`
 
 #### Note:
 It is impossible to run this code on Python3.
