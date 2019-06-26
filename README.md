@@ -1,4 +1,4 @@
-## Causality Estimater
+# Causality Estimater
 
 Publication:
 Shota Sasaki, Sho Takase, Naoya Inoue, Naoaki Okazaki and Kentaro Inui. "Handling Multiword Expressions in Causality Estimation". In Proceedings of 12th International Conference on Computational Semantics (IWCS).
@@ -40,19 +40,23 @@ It is impossible to run this code on Python3.
 -p                  Option to print results' detail.
 ```
 
-### ---JSON DICTIONARY FILE DETAILE
+### JSON DICTIONARY FILE DETAILE
 cause-result-cooccurence-frequency dic:
+```
     key = "cause_word:result_word"
     value = frequency of cooccurence
+```
 
 cause(result)-word-frequency dic:
+```
     key = "cause(result)_word"
     value = frequency of occurence
+```
 
-
-### ---VOCABLARY FILE EXAMPLE
+### VOCABLARY FILE EXAMPLE
+```
 Frequency\tWord
-- $cat vocabulary.tsv
+$cat vocabulary.tsv
 
 16283892        use
 
@@ -63,4 +67,4 @@ Frequency\tWord
 12503586        know
 
 ...
-
+```
