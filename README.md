@@ -40,7 +40,7 @@ It is impossible to run this code on Python3.
 -p                  Option to print results' detail.
 ```
 
-### JSON DICTIONARY FILE DETAILE
+### JSON dictionary file detail
 cause-result-cooccurence-frequency dic:
 ```
     key = "cause_word:result_word"
@@ -53,7 +53,7 @@ cause(result)-word-frequency dic:
     value = frequency of occurence
 ```
 
-### VOCABLARY FILE EXAMPLE
+### Vocabulary file example
 ```
 Frequency\tWord
 $cat vocabulary.tsv
