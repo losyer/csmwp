@@ -1,3 +1,9 @@
+## Causality Estimater
+
+Publication:
+Shota Sasaki, Sho Takase, Naoya Inoue, Naoaki Okazaki and Kentaro Inui. "Handling Multiword Expressions in Causality Estimation". In Proceedings of 12th International Conference on Computational Semantics (IWCS).
+
+
 ### How to run
 ```
 $ cd <PATH_TO_REPOSITORY>
